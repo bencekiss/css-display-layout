@@ -1,5 +1,5 @@
 html{
-  font-family: Helvetica, sans-serif;
+  font-family: "Cinzel", Helvetica, sans-serif;
   margin:auto;
 }
 
@@ -27,7 +27,7 @@ ul{
 li a{
   text-decoration: none;
   color: white;
-  font-weight: bold;
+  font-weight: 900;
 }
 /*formatting the main*/
 main{
