@@ -45,9 +45,18 @@ main > p{
   padding-top: 5px;
 
 }
+
 .undexboxes{
-  background-color: #fbdd34;
-  padding: 8px 0px;
+  display: block;
+  background-color: #fbc934;
+  /*border-top: 1px solid black;*/
+  line-height: 2.5;
+  /*padding-top: 1px;*/
+  margin-top: -15px;
+}
+.undexboxes > p{
+  /*padding-top: 2px;*/
+  /*border-top: 1px solid black;*/
 }
 
 /*footer styling*/
