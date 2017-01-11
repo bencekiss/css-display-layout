@@ -23,10 +23,28 @@ ul{
 }
 .nav{
   text-align: center;
-
 }
 li a{
   text-decoration: none;
   color: white;
   font-weight: bold;
+}
+/*formatting the main*/
+main{
+  margin: 10px 30px;
+  text-align: center;
+}
+main > p{
+  text-align: left;
+  background-color: #12ed9d;
+  padding: 10px;
+}
+.boxes{
+  display:inline-block;
+  padding-top: 5px;
+
+}
+.undexboxes{
+  background-color: #fbdd34;
+  padding: 10px 0px;
 }
