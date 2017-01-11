@@ -39,6 +39,7 @@ main > p{
   background-color: #12ed9d;
   padding: 10px;
 }
+
 .boxes{
   display:inline-block;
   padding-top: 5px;
@@ -46,5 +47,14 @@ main > p{
 }
 .undexboxes{
   background-color: #fbdd34;
-  padding: 10px 0px;
+  padding: 8px 0px;
+}
+
+/*footer styling*/
+footer{
+  background-color: black;
+  text-align: center;
+  color: white;
+  font-size: 14px;
+  padding: 5px;
 }
